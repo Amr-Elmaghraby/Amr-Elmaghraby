@@ -32,16 +32,16 @@
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:amrr.ayman36@gmail.com" target="_blank">
+  <a href="mailto:amrr.ayman36@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/amr-elmaghraby/" target="_blank">
+  <a href="https://www.linkedin.com/in/amr-elmaghraby/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="https://stackoverflow.com/users/22125491/amr-elmaghraby" target="_blank">
+  <a href="https://stackoverflow.com/users/22125491/amr-elmaghraby">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
   </a>&nbsp;
-  <a href="https://leetcode.com/u/Amr_Elmaghraby/" target="_blank">
+  <a href="https://leetcode.com/u/Amr_Elmaghraby/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
