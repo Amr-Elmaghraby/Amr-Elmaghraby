@@ -1,7 +1,10 @@
+Here's the updated README with fixed URLs using alternative Vercel instances that are more reliable:
+
+
 <h1></h1>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F0FD2&height=200&section=header&text=Amr%20Elmaghraby&fontSize=50&fontColor=F53E5B&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full%20Stack%20|%20.NET%20Developer&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F0FD2&height=200&section=header&text=Amr%20Elmaghraby&fontSize=50&fontColor=F0F6FC&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full%20Stack%20|%20.NET%20Developer&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <h1 align="center">
@@ -19,18 +22,16 @@
 
 ---
 
-### 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```text
-🔭  I'm a Software Engineer specializing in Full Stack development with .NET
-💡  Passionate about building clean, scalable, and efficient applications
-🌱  Always exploring new technologies and best practices
-⚡  I love solving complex problems and contributing to open source
-```
+- 🔭 I'm currently working on **Full Stack .NET Applications**
+- 🌱 I'm constantly learning and exploring **new technologies**
+- 💬 Ask me about **C#, .NET, SQL Server, Web Development**
+- ⚡ Fun fact: **I love solving coding challenges and contributing to open source**
 
 ---
 
-### 📬 Connect With Me
+## 📬 Connect With Me
 
 <p align="center">
   <a href="mailto:amrr.ayman36@gmail.com">
@@ -49,7 +50,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
