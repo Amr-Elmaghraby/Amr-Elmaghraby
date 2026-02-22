@@ -11,6 +11,7 @@
 </h1>
 
 <div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Scalable+Web+Applications;Passionate+About+Clean+Code;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 </div>
 
