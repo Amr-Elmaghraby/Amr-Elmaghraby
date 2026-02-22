@@ -1,6 +1,3 @@
-Here's the updated README with fixed URLs using alternative Vercel instances that are more reliable:
-
-
 <h1></h1>
 
 <div align="center">
@@ -24,10 +21,11 @@ Here's the updated README with fixed URLs using alternative Vercel instances tha
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **Full Stack .NET Applications**
-- 🌱 I'm constantly learning and exploring **new technologies**
-- 💬 Ask me about **C#, .NET, SQL Server, Web Development**
-- ⚡ Fun fact: **I love solving coding challenges and contributing to open source**
+- 🔭  I'm a **Software Engineer** passionate about building **impactful solutions**
+- 💡  I believe in writing **clean**, **maintainable**, and **scalable** code
+- 🌱  **Always learning, always growing** — curiosity drives everything I do
+- 🤝  I enjoy **collaborating** with others and **sharing knowledge**
+- 🎯  **What drives me:** Solving coding challenges and exploring new ideas
 
 ---
 
